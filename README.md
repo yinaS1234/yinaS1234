@@ -1,7 +1,6 @@
 - 👋 Hi,my name is Yina. Welcome to my Github.
-- 
-  👀 Recently completed my Google/ Data Analytics Professional Certificate!
-  💞️ Former finance professional, currently in transition into data science after discovering my true passion with data. 
+- 👀 Recently completed my Google/ Data Analytics Professional Certificate!
+- 💞️ Former finance professional, currently in transition into data science after discovering my true passion with data. 
      A fashionable nerd and yogis at heart.
  🌱 I’m currently learning R, SQL and tableau.
 
