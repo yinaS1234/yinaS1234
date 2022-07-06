@@ -5,7 +5,8 @@
 -  A fashionable Nerd and a Yogi at heart.
 - 🌱 I’m currently learning R, SQL and tableau.
 
-- 📫 How to reach me? yina.qiao@baruchmail.cuny.edu
+- 📫 How to reach me? yina.qiao@baruchmail.cuny.edu 
+                    https://www.linkedin.com/in/yina-qiao/
 
 <!---
 yinaS1234/yinaS1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
