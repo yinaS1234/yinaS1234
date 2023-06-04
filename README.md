@@ -1,9 +1,9 @@
 - 👋 Hi,my name is Yina. Welcome to my Github.
-- 👀 Recently completed my Google/ Data Analytics Professional Certificate!
+- 👀 MS Data Science Student. 
 - 💞️ Former finance professional, currently seeking a full-time role in the field of data analytics after discovering my true passion in data
 
 -  A fashionable Nerd and a Yogi at heart.
-- 🌱 I’m currently learning R, SQL and tableau.
+- 🌱 Love Data Visualization and Story-Tellinng with PPT/Tableau
 
 - 📫 How to reach me? yina.qiao@baruchmail.cuny.edu 
                     https://www.linkedin.com/in/yina-qiao/
