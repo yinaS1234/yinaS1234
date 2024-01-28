@@ -2,7 +2,7 @@
 
 - **Journey**: Transitioned from banking to business intelligence, leveraging empathy and analytical skills.
 - **Skills**: Proficient in SQL, EXCEL,  Python, Tableau, and cloud technologies.
-- **Highlight**: Enhancing efficiency and customer service; Developed an AI-powered Chatbot with Salesforce Einstein.
+- **Highlight**: Enhancing efficiency and Stakeholder Engagement; Developed an AI-powered Chatbot with Salesforce Einstein.
 - **Philosophy**: Passionate about merging data with human-centric solutions to drive actionable insights.
 - **Call to Action**: If you value collaborative innovation at the intersection of data and technology, I'd love to connect!
 
