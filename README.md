@@ -24,6 +24,6 @@ Here, you'll find projects that embody my customer-focused mindset and service-o
 
 <div align="right">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&lines=Crafting+Insights,+One+Dataset+at+a+Time)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7F7F7&multiline=true&lines=Crafting+Insights,+One+Dataset+at+a+Time)](https://git.io/typing-svg)
 
 </div>
