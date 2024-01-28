@@ -1,13 +1,11 @@
 ## Welcome to My Space 🌟 👋, I'm Yina - Data Yogi, Business Analyst & Open to Work 🚀
 
-- **Journey**: Transitioned from banking to business intelligence, leveraging empathy and analytical skills.
-- **Skills**: Proficient in SQL, EXCEL,  Python, Tableau, and cloud technologies.
-- **Highlight**: Enhancing efficiency and Stakeholder Engagement; Developed an AI-powered Chatbot with Salesforce Einstein.
-- **Philosophy**: Passionate about merging data with human-centric solutions to drive actionable insights.
-- **Call to Action**: If you value collaborative innovation at the intersection of data and technology, I'd love to connect!
-
-Let's explore how we can create impactful solutions together.
-
+- **Journey**: From banking to business intelligence, blending empathy with analytics.
+- **Skills**: Skilled in SQL, Excel, Python, Tableau, and cloud solutions.
+- **Highlight**: Boosted efficiency and engagement, created an AI Chatbot with Salesforce Einstein.
+- **Philosophy**: Merging data with empathy for insightful, human-centric solutions.
+- **Hobbies**: Exploring nature through hiking, finding balance with meditation and aerial yoga, adoring animals, and discovering new cities.
+- **Call to Action**: Keen on data-driven innovation? Let's connect and explore collaborative opportunities!
 
 <div style="display: inline_block"  align="left"><br>
   <img align="center" alt="Yina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
