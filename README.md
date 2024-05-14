@@ -2,8 +2,6 @@
 
 - **Journey**: From banking to business intelligence, blending empathy with analytics.
 - **Skills**: Skilled in SQL, Excel, Python, Tableau, and cloud solutions.
-- **Highlight**: Boosted efficiency and Stakeholder engagement, created an AI Chatbot with Salesforce Einstein.
-- **Philosophy**: Merging data with empathy for insightful, human-centric solutions.
 - **Hobbies**:  Hiking | Meditation | Animals | Exploring
 - **Call to Action**: Keen on data-driven innovation? Let's connect and explore collaborative opportunities!
 
