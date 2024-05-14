@@ -2,7 +2,7 @@
 
 - **Journey**: From banking to business intelligence, blending empathy with analytics.
 - **Skills**: Skilled in SQL, Excel, Python, Tableau, and cloud solutions.
-- **Hobbies**:  Hiking | Meditation | Animals | Exploring
+- **Hobbies**:  Hiking | Meditation | Animals | Volunteer
 - **Call to Action**: Keen on data-driven innovation? Let's connect and explore collaborative opportunities!
 
 <div style="display: inline_block"  align="left"><br>
