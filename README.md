@@ -1,4 +1,4 @@
-## Welcome to My Space 🌟 👋, I'm Yina - Data Yogi, Business Analyst 🚀
+## Welcome to My Space 🌟 👋, I'm Yina - Business Analyst| MS Data Science Candidate 🚀
 
 - **Journey**: From banking to business intelligence, blending empathy with analytics.
 - **Skills**: Skilled in SQL, Excel, Python, Tableau, and cloud solutions.
