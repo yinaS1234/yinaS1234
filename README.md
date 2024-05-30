@@ -3,7 +3,7 @@
 - **Journey**: From banking to business intelligence, blending empathy with analytics.
 - **Skills**: Skilled in SQL, Excel, Python, Tableau, and cloud solutions.
 - **Hobbies**:  Hiking | Meditation | Animals | Volunteer
-- **Call to Action**: Keen on data-driven innovation? Let's connect and explore collaborative opportunities!
+
 
 <div style="display: inline_block"  align="left"><br>
   <img align="center" alt="Yina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
