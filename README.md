@@ -1,4 +1,4 @@
-## Welcome to My Space 🌟 👋, I'm Yina - Business Analyst| MS Data Science 🚀
+## Welcome to My Space 🌟 👋, I'm Yina - Certified Data Engineer| MS Data Science 🚀 Visuals Enthusiast~
 
 - **Journey**: From banking to business intelligence, blending empathy with analytics.
 - **Skills**: Skilled in SQL, Excel, Python, Tableau, and cloud solutions.
