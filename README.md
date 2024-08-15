@@ -50,7 +50,7 @@
 
 
 
-
+<details open> 
   <summary><h2>🛠️ Skills</h2></summary>
   <h3>👨‍💻 Programming Languages</h3>
   <p>
@@ -112,7 +112,7 @@
     <a href="#"><img alt="Replit" src="https://img.shields.io/badge/Replit-0D101E.svg?logo=replit&logoColor=white"></a>
     <a href="#"><img alt="PythonAnywhere" src="https://img.shields.io/badge/PythonAnywhere-3776AB.svg?logo=python&logoColor=white"></a>
   </p>
-
+</details>
 
 
 
