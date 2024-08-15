@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="https://github.com/yinaS1234">
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/Yina%20Qiao.png" alt="Yina Qiao" /></a>
+</p>
+
+<p align="center">
+  <!-- Typing SVG -->
+  <a href="https://github.com/yinaS1234">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Data%20Analyst;Data%20Visualization%20Enthusiast;Ex-JPM/NYSE;Lifelong%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=00aaff&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+
+
+
+
+
 ## Welcome to My Space 🌟 👋, I'm Yina - Certified Data Engineer| MS Data Science 🚀 Visuals Enthusiast~
 
 - **Journey**: From banking to business intelligence, blending empathy with analytics.
