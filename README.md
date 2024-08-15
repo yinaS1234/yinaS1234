@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/yinaS1234">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/Yina_Qiao.png" alt="Yina Qiao" style="height:100px;border-radius:50%;background-color:#0d1117;margin-bottom:0px;" /></a>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/Yina_Qiao.png" alt="Yina Qiao" style="height:150px;border-radius:50%;background-color:#0d1117;margin-bottom:0px;" /></a>
 </p>
 
 <p align="center">
