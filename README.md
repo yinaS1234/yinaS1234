@@ -11,7 +11,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://public.tableau.com/profile/yina.qiao" target="_blank">
+  <a href="https://public.tableau.com/profile/yina.qiao](https://public.tableau.com/app/profile/yina7051/vizzes" target="_blank">
     <img width="32px" alt="Tableau" title="Tableau" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
