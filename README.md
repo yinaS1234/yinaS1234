@@ -41,7 +41,7 @@
 
 
 
-## Welcome to My Space 🌟 👋. A little bit about me.....~
+## 🌟 👋 A little bit about me.....~
 
 👩‍💻I am a curious, multilingual data science professional with a strong foundation in finance and operations. My expertise lies in analyzing large datasets using SQL and Python, building efficient data pipelines, and conducting comprehensive data analysis. I excel in creating executive-facing dashboards and visually appealing presentations that drive data-driven decision-making and optimize business processes.
 
