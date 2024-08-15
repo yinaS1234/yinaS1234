@@ -41,11 +41,9 @@
 
 
 
-## Welcome to My Space 🌟 👋, I'm Yina - Certified Data Engineer| MS Data Science 🚀 Visuals Enthusiast~
+## Welcome to My Space 🌟 👋. A little bit about me.....~
 
-- **Journey**: From banking to business intelligence, blending empathy with analytics.
-- **Skills**: SQL, Excel, Python, Tableau, and cloud solutions.
-- **Hobbies**:  Arts | Meditation | Animals | Volunteer
+👩‍💻I am a curious, multilingual data science professional with a strong foundation in finance and operations. My expertise lies in analyzing large datasets using SQL and Python, building efficient data pipelines, and conducting comprehensive data analysis. I excel in creating executive-facing dashboards and visually appealing presentations that drive data-driven decision-making and optimize business processes.
 
 
 <div style="display: inline_block"  align="left"><br>
