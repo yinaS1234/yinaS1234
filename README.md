@@ -19,8 +19,8 @@
     <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="yina.qiao@baruchmail.cuny.edu" target="_blank">
-    <img width="32px" alt="Email" title="Email" src="https://img.icons8.com/color/48/000000/email.png"/>
+  <a href="mailto:yina.qiao@baruchmail.cuny.edu" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/yinaS1234" target="_blank">
