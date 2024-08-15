@@ -1,7 +1,7 @@
-[<p align="center">
+<p align="center">
   <a href="https://github.com/yinaS1234">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/Yina%20Qiao.png" alt="Yina Qiao" /></a>
-</p>](https://github.com/yinaS1234/yinaS1234/blob/main/Yina%20Qiao.png)
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/Yina%20Qiao.png" alt="Yina Qiao" style="width:150px;height:150px;border-radius:50%;background-color:#ffffff;" /></a>
+</p>
 
 <p align="center">
   <!-- Typing SVG -->
