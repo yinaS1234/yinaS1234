@@ -19,7 +19,7 @@
     <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="yina.qiao@baruchmail.cuny.edu" target="_blank">
     <img width="32px" alt="Email" title="Email" src="https://img.icons8.com/color/48/000000/email.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -27,7 +27,7 @@
     <img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://rpubs.com/Yina_Qiao" target="_blank">
+  <a href="https://rpubs.com/lindaqiao" target="_blank">
     <img width="42px" alt="RPubs" title="RPubs" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"/>
   </a>
 </p>
