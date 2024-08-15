@@ -49,6 +49,7 @@
 
 
 
+
 <details> 
   <summary><h2>🛠️ Skills</h2></summary>
   
@@ -60,6 +61,7 @@
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="VBA" src="https://img.shields.io/badge/VBA-217346.svg?logo=microsoft-excel&logoColor=white"></a>
   </p>
+
 
   <h3>💻 Software and Tools</h3>
   <p>
@@ -84,6 +86,7 @@
     <a href="#"><img alt="Lucidchart" src="https://img.shields.io/badge/Lucidchart-F37321.svg?logo=lucidchart&logoColor=white"></a>
   </p>
 
+
   <h3>🧰 Libraries</h3>
   <p>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -97,6 +100,7 @@
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="PySpark" src="https://img.shields.io/badge/PySpark-E25A1C.svg?logo=apache-spark&logoColor=white"></a>
   </p>
+  
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
   <p>
@@ -110,6 +114,10 @@
     <a href="#"><img alt="PythonAnywhere" src="https://img.shields.io/badge/PythonAnywhere-3776AB.svg?logo=python&logoColor=white"></a>
   </p>
 </details>
+
+
+
+
 
 
 
