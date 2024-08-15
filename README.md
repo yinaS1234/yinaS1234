@@ -9,6 +9,28 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Data%20Analyst;Data%20Visualization%20Enthusiast;Ex-JPM/NYSE;Lifelong%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=00aaff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://public.tableau.com/profile/yina.qiao" target="_blank">
+    <img width="32px" alt="Tableau" title="Tableau" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/yina-qiao/" target="_blank">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img width="32px" alt="Email" title="Email" src="https://img.icons8.com/color/48/000000/email.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/yinaS1234" target="_blank">
+    <img width="32px" alt="GitHub" title="GitHub" src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://rpubs.com/Yina_Qiao" target="_blank">
+    <img width="32px" alt="RPubs" title="RPubs" src="https://img.icons8.com/ios-filled/50/000000/graph-report.png"/>
+  </a>
+</p>
 
 
 
