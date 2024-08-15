@@ -28,7 +28,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://rpubs.com/Yina_Qiao" target="_blank">
-    <img width="40px" alt="RPubs" title="RPubs" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"/>
+    <img width="42px" alt="RPubs" title="RPubs" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"/>
   </a>
 </p>
 
