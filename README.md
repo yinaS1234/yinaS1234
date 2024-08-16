@@ -116,7 +116,7 @@
 
 
 <details open> 
-  <summary><h2>📘 Top Projects By Category</h2></summary>
+  <summary><h2>📘 Top DS Projects By Category</h2></summary>
 
   <!-- Repo info cards -->
   <p align="left">
