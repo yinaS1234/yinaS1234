@@ -115,6 +115,35 @@
 </details>
 
 
+<details open> 
+  <summary><h2>📘 My Top Projects</h2></summary>
+
+  ### ETL - Walmart Retail ETL
+  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Walmart-Retail-ETL)  
+  Developed a robust ETL pipeline, optimizing Walmart sales data processing for enhanced transaction analysis, ensuring seamless data flow and insightful reporting critical for fintech and e-commerce operations.
+
+  ### Data Analysis - Stock Price Prediction using ARIMA
+  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Stock-Price-Prediction-ARIMA)  
+  Implemented ARIMA for accurate stock price forecasting, showcasing time series expertise, vital for financial forecasting, strategic planning, in operation environments.
+
+  ### Data Visualization - Hospital Operations Dashboard (Tableau)
+  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Hospital-Operations-Dashboard)  
+  Crafted an executive dashboard to optimize hospital operations, showcasing the ability to deliver actionable insights, crucial for decision-making in fintech and e-commerce leadership.
+
+  ### Machine Learning - Fraud Detection in Online Transactions
+  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Fraud-Detection-Online-Transactions)  
+  Utilized deep learning to detect first-time online transaction fraud, enhancing security and trust, essential for fintech platforms focused on minimizing fraud and safeguarding customer assets.
+
+  ### Deep Learning - Twitter Sentiment Analysis
+  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Twitter-Sentiment-Analysis)  
+  Leveraged NLP to analyze Twitter sentiment, providing insights into customer feedback. Understanding customer sentiment and behavior is key in both fintech and e-commerce. This project showcases the ability to apply NLP for customer insights, which can be used to drive product development and customer support improvement.
+
+  ### Simulation Modeling - Simulating Bank Queues to Improve Customer Wait
+  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Simulating-Bank-Queues)  
+  Simulated bank queues to optimize teller efficiency, directly enhancing customer experience and operational throughput, critical for fintech/e-commerce companies striving for superior service delivery.
+
+</details>
+
 
 
 
