@@ -116,50 +116,16 @@
 
 
 <details open> 
-  <summary><h2>📘 My Top Projects</h2></summary>
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
+  <!-- Repo info cards -->
   <p align="left">
-    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/ETL%20Walmart%20Retail%20Data%20Pipeline">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=ETL%20Walmart%20Retail%20Data%20Pipeline" alt="ETL Walmart Retail Data Pipeline">
-      <br><strong>ETL - Walmart Retail Data Pipeline</strong><br>
-      Developed a robust ETL pipeline, optimizing Walmart sales data processing for enhanced transaction analysis.
-    </a>
-    
-    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Data%20Analysis">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Stock%20Price%20Prediction%20using%20ARIMA" alt="Stock Price Prediction using ARIMA">
-      <br><strong>Data Analysis - Stock Price Prediction using ARIMA</strong><br>
-      Implemented ARIMA for accurate stock price forecasting, showcasing time series expertise.
-    </a>
-    
-    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Data%20Visualization">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Hospital%20Operations%20Dashboard" alt="Hospital Operations Dashboard">
-      <br><strong>Data Visualization - Hospital Operations Dashboard (Tableau)</strong><br>
-      Crafted an executive dashboard to optimize hospital operations.
-    </a>
-    
-    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Machine%20Learning">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Fraud%20Detection%20in%20Online%20Transactions" alt="Fraud Detection in Online Transactions">
-      <br><strong>Machine Learning - Fraud Detection in Online Transactions</strong><br>
-      Utilized deep learning to detect first-time online transaction fraud, enhancing security and trust.
-    </a>
-    
-    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Deep%20Learning">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Twitter%20Sentiment%20Analysis" alt="Twitter Sentiment Analysis">
-      <br><strong>Deep Learning - Twitter Sentiment Analysis</strong><br>
-      Leveraged NLP to analyze Twitter sentiment, providing insights into customer feedback.
-    </a>
-    
-    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Simulation%20and%20Modeling">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Simulating%20Bank%20Queues" alt="Simulating Bank Queues">
-      <br><strong>Simulation Modeling - Simulating Bank Queues to Improve Customer Wait</strong><br>
-      Simulated bank queues to optimize teller efficiency, directly enhancing customer experience.
-    </a>
+    <a href="https://github.com/yinaS1234/ETL---Walmart-Retail-ETL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=ETL---Walmart-Retail-ETL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ETL---Walmart-Retail-ETL"></a>
   </p>
 
-  <a href="https://github.com/yinaS1234?tab=repositories&sort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
+  <a href="https://github.com/yinaS1234?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
 
 
 
