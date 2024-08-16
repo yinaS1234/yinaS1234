@@ -119,40 +119,40 @@
   <summary><h2>📘 My Top Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Walmart-Retail-ETL">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Walmart-Retail-ETL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Walmart Retail ETL">
-      <br><strong>ETL - Walmart Retail ETL</strong><br>
-      Developed a robust ETL pipeline, optimizing Walmart sales data processing for enhanced transaction analysis, ensuring seamless data flow and insightful reporting critical for fintech and e-commerce operations.
+    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/ETL%20Walmart%20Retail%20Data%20Pipeline">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=ETL%20Walmart%20Retail%20Data%20Pipeline" alt="ETL Walmart Retail Data Pipeline">
+      <br><strong>ETL - Walmart Retail Data Pipeline</strong><br>
+      Developed a robust ETL pipeline, optimizing Walmart sales data processing for enhanced transaction analysis.
     </a>
     
-    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Stock-Price-Prediction-ARIMA">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Stock-Price-Prediction-ARIMA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Stock Price Prediction using ARIMA">
+    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Data%20Analysis">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Stock%20Price%20Prediction%20using%20ARIMA" alt="Stock Price Prediction using ARIMA">
       <br><strong>Data Analysis - Stock Price Prediction using ARIMA</strong><br>
-      Implemented ARIMA for accurate stock price forecasting, showcasing time series expertise, vital for financial forecasting, strategic planning, in operation environments.
+      Implemented ARIMA for accurate stock price forecasting, showcasing time series expertise.
     </a>
     
-    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Hospital-Operations-Dashboard">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Hospital-Operations-Dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hospital Operations Dashboard">
+    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Data%20Visualization">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Hospital%20Operations%20Dashboard" alt="Hospital Operations Dashboard">
       <br><strong>Data Visualization - Hospital Operations Dashboard (Tableau)</strong><br>
-      Crafted an executive dashboard to optimize hospital operations, showcasing the ability to deliver actionable insights, crucial for decision-making in fintech and e-commerce leadership.
+      Crafted an executive dashboard to optimize hospital operations.
     </a>
     
-    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Fraud-Detection-Online-Transactions">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Fraud-Detection-Online-Transactions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Fraud Detection in Online Transactions">
+    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Machine%20Learning">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Fraud%20Detection%20in%20Online%20Transactions" alt="Fraud Detection in Online Transactions">
       <br><strong>Machine Learning - Fraud Detection in Online Transactions</strong><br>
-      Utilized deep learning to detect first-time online transaction fraud, enhancing security and trust, essential for fintech platforms focused on minimizing fraud and safeguarding customer assets.
+      Utilized deep learning to detect first-time online transaction fraud, enhancing security and trust.
     </a>
     
-    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Twitter-Sentiment-Analysis">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Twitter-Sentiment-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Twitter Sentiment Analysis">
+    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Deep%20Learning">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Twitter%20Sentiment%20Analysis" alt="Twitter Sentiment Analysis">
       <br><strong>Deep Learning - Twitter Sentiment Analysis</strong><br>
-      Leveraged NLP to analyze Twitter sentiment, providing insights into customer feedback. Understanding customer sentiment and behavior is key in both fintech and e-commerce. This project showcases the ability to apply NLP for customer insights, which can be used to drive product development and customer support improvement.
+      Leveraged NLP to analyze Twitter sentiment, providing insights into customer feedback.
     </a>
     
-    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Simulating-Bank-Queues">
-      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Simulating-Bank-Queues&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Simulating Bank Queues">
+    <a href="https://github.com/yinaS1234/Top-Projects-Portfolio/tree/main/Simulation%20and%20Modeling">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Top-Projects-Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Simulating%20Bank%20Queues" alt="Simulating Bank Queues">
       <br><strong>Simulation Modeling - Simulating Bank Queues to Improve Customer Wait</strong><br>
-      Simulated bank queues to optimize teller efficiency, directly enhancing customer experience and operational throughput, critical for fintech/e-commerce companies striving for superior service delivery.
+      Simulated bank queues to optimize teller efficiency, directly enhancing customer experience.
     </a>
   </p>
 
@@ -160,6 +160,7 @@
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </details>
+
 
 
 
