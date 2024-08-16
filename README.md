@@ -47,7 +47,18 @@
 
 
 
-
+<details open> 
+  <summary><h2>Visuals</h2></summary>
+  
+  <!-- Images Section -->
+  <p align="center">
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/climate.png" alt="Climate Visual" width="400"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/poverty.png" alt="Poverty Visual" width="400"/>
+  </p>
+  <p align="center">
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/dashboard%20pic.png" alt="Dashboard Visual" width="600"/>
+  </p>
+</details>
 
 
 <details open> 
