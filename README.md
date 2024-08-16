@@ -125,6 +125,7 @@
     <a href="https://github.com/yinaS1234/Hospital-Operations-Dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Hospital-Operations-Dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
     <a href="https://github.com/yinaS1234/Fraud-Detection-Online-Trans"><img width="281" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Fraud-Detection-Online-Trans&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
     <a href="https://github.com/yinaS1234/DL-Twitter-Sentiment-Analysis"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=DL-Twitter-Sentiment-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Twitter%20Sentiment%20Analysis"></a>
+    <a href="https://github.com/yinaS1234/Simulating-Bank-Queues"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Simulating-Bank-Queues&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Simulating%20Bank%20Queues"></a>
   
   </p>
 
