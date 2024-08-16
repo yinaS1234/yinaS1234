@@ -51,7 +51,7 @@
 
 
 <details open> 
-  <summary><h2>🛠️ Skills</h2></summary>
+  <summary><h2>Skills</h2></summary>
   <h3>Programming Languages</h3>
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -116,7 +116,7 @@
 
 
 <details open> 
-  <summary><h2>📘 Top DS Projects By Category</h2></summary>
+  <summary><h2>Top DS Projects By Category</h2></summary>
 
   <!-- Repo info cards -->
   <p align="left">
