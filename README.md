@@ -137,11 +137,7 @@
 
 
 
-<div style="display: inline_block"  align="left"><br>
-  <img align="center" alt="Yina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yina-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Yina-Tableau" height="30" width="40" src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg">
-</div>
+
   
 
 
