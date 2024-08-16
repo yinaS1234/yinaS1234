@@ -40,7 +40,7 @@
 
 
 
-## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> A little bit about me......
+## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> A little bit about me...
 
 
 From a young age, I’ve been captivated by the world of art, finding beauty in the details and stories behind every creation. This passion for creativity found a new dimension during the pandemic when I dove into the world of website design. It was there, amidst the lines of code and digital canvases, that I discovered my love for technology.
