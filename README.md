@@ -173,4 +173,7 @@ In my work, I seamlessly blend the analytical precision of data science with the
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFD700&multiline=true&lines=Crafting+Insights;One+Dataset+at+a+Time)](https://git.io/typing-svg)
 
+<br>
+
+  [![Follow](https://img.shields.io/github/followers/yinaS1234?label=Follow&style=social)](https://github.com/yinaS1234)
 </div>
