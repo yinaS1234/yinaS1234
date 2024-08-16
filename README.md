@@ -56,7 +56,8 @@
     <img src="https://github.com/yinaS1234/yinaS1234/blob/main/poverty.png" alt="Poverty Visual" width="400"/>
   </p>
   <p align="center">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/dashboard%20pic.png" alt="Dashboard Visual" width="600"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/dashboard%20pic.png" alt="Dashboard Visual" width="400"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/gameplay.png" alt="gameplay" width="400"/>
   </p>
 </details>
 
