@@ -122,6 +122,7 @@
   <p align="left">
     <a href="https://github.com/yinaS1234/ETL-Walmart-Retail"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=ETL-Walmart-Retail&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
     <a href="https://github.com/yinaS1234/DA-Stock-Price-Prediction-ARIMA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=DA-Stock-Price-Prediction-ARIMA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+    <a href="https://github.com/yinaS1234/Tableau-Hospital-Operations-Dashboard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Tableau-Hospital-Operations-Dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Hospital%20Operations%20Dashboard"></a>
   </p>
 
   <a href="https://github.com/yinaS1234?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
