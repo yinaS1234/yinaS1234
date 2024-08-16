@@ -43,7 +43,13 @@
 
 ## 🌟 👋 A little bit about me......
 
-👩‍💻I am a curious, multilingual data science professional with a strong foundation in finance and operations. My expertise lies in analyzing large datasets using SQL and Python, building efficient data pipelines, and conducting comprehensive data analysis. I excel in creating executive-facing dashboards and visually appealing presentations that drive data-driven decision-making and optimize business processes~
+From a young age, I’ve been captivated by the world of art, finding beauty in the details and stories behind every creation. This passion for creativity found a new dimension during the pandemic when I dove into the world of website design. It was there, amidst the lines of code and digital canvases, that I discovered my love for technology.
+
+My journey didn’t stop at design. Seeking to expand my horizons, I embarked on the Google Data Science Career Certification, where I unexpectedly fell in love with coding. It was in the intricacies of data that I realized data science isn’t just a science—it’s an art form. The ability to blend data and creativity to tell compelling stories fascinated me.
+
+Now, as a curious and multilingual data science professional with a robust foundation in finance and operations, I bring a unique perspective to every project. My expertise spans analyzing large datasets using SQL and Python, building efficient data pipelines, and conducting in-depth data analysis. But what truly sets me apart is my ability to transform data into visually compelling stories. I create executive-facing dashboards and presentations that not only inform but inspire, driving data-driven decision-making and optimizing business processes.
+
+In my work, I seamlessly blend the analytical precision of data science with the artistic flair that first sparked my interest, creating a powerful synergy that fuels innovation and impact.
 
 
 
