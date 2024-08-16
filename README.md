@@ -120,7 +120,7 @@
 
   <!-- Repo info cards -->
   <p align="left">
-    <a href="https://github.com/yinaS1234/ETL-Walmart-Retail"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=ETL-Walmart-Retail&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Walmart%20Retail%20ETL"></a>
+    <a href="https://github.com/yinaS1234/ETL-Walmart-Retail"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=ETL-Walmart-Retail&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
     <a href="https://github.com/yinaS1234/Data-Analysis---Stock-Price-Prediction-using-ARIMA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Data-Analysis---Stock-Price-Prediction-using-ARIMA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&custom_title=Stock%20Price%20Prediction%20using%20ARIMA"></a>
   </p>
 
