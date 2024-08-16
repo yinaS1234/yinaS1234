@@ -52,14 +52,15 @@
   
   <!-- Images Section -->
   <p align="center">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/climate.png" alt="Climate Visual" height="250"/>
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/poverty.png" alt="Poverty Visual" height="250"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/climate.png" alt="Climate Visual" width="400" height="250"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/poverty.png" alt="Poverty Visual" width="400" height="250"/>
   </p>
   <p align="center">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/dashboard%20pic.png" alt="Dashboard Visual" height="250"/>
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/gameplay.png" alt="Gameplay Visual" height="250"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/dashboard%20pic.png" alt="Dashboard Visual" width="400" height="250"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/gameplay.png" alt="Gameplay Visual" width="400" height="250"/>
   </p>
 </details>
+
 
 
 <details open> 
