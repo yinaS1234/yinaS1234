@@ -52,7 +52,7 @@
 
 <details open> 
   <summary><h2>🛠️ Skills</h2></summary>
-  <h3>👨‍💻 Programming Languages</h3>
+  <h3>Programming Languages</h3>
   <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
@@ -62,7 +62,7 @@
   </p>
 
 
-  <h3>💻 Software and Tools</h3>
+  <h3>Software and Tools</h3>
   <p>
     <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
     <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
@@ -86,7 +86,7 @@
   </p>
 
 
-  <h3>🧰 Libraries</h3>
+  <h3>Libraries</h3>
   <p>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -101,7 +101,7 @@
   </p>
   
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <h3>Databases and Cloud Hosting</h3>
   <p>
     <a href="#"><img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-569A31.svg?logo=amazon-aws&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
