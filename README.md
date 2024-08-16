@@ -118,31 +118,49 @@
 <details open> 
   <summary><h2>📘 My Top Projects</h2></summary>
 
-  ### ETL - Walmart Retail ETL
-  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Walmart-Retail-ETL)  
-  Developed a robust ETL pipeline, optimizing Walmart sales data processing for enhanced transaction analysis, ensuring seamless data flow and insightful reporting critical for fintech and e-commerce operations.
+  <p align="left">
+    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Walmart-Retail-ETL">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Walmart-Retail-ETL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Walmart Retail ETL">
+      <br><strong>ETL - Walmart Retail ETL</strong><br>
+      Developed a robust ETL pipeline, optimizing Walmart sales data processing for enhanced transaction analysis, ensuring seamless data flow and insightful reporting critical for fintech and e-commerce operations.
+    </a>
+    
+    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Stock-Price-Prediction-ARIMA">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Stock-Price-Prediction-ARIMA&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Stock Price Prediction using ARIMA">
+      <br><strong>Data Analysis - Stock Price Prediction using ARIMA</strong><br>
+      Implemented ARIMA for accurate stock price forecasting, showcasing time series expertise, vital for financial forecasting, strategic planning, in operation environments.
+    </a>
+    
+    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Hospital-Operations-Dashboard">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Hospital-Operations-Dashboard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hospital Operations Dashboard">
+      <br><strong>Data Visualization - Hospital Operations Dashboard (Tableau)</strong><br>
+      Crafted an executive dashboard to optimize hospital operations, showcasing the ability to deliver actionable insights, crucial for decision-making in fintech and e-commerce leadership.
+    </a>
+    
+    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Fraud-Detection-Online-Transactions">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Fraud-Detection-Online-Transactions&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Fraud Detection in Online Transactions">
+      <br><strong>Machine Learning - Fraud Detection in Online Transactions</strong><br>
+      Utilized deep learning to detect first-time online transaction fraud, enhancing security and trust, essential for fintech platforms focused on minimizing fraud and safeguarding customer assets.
+    </a>
+    
+    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Twitter-Sentiment-Analysis">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Twitter-Sentiment-Analysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Twitter Sentiment Analysis">
+      <br><strong>Deep Learning - Twitter Sentiment Analysis</strong><br>
+      Leveraged NLP to analyze Twitter sentiment, providing insights into customer feedback. Understanding customer sentiment and behavior is key in both fintech and e-commerce. This project showcases the ability to apply NLP for customer insights, which can be used to drive product development and customer support improvement.
+    </a>
+    
+    <a href="https://github.com/yinaS1234/top-project-portfolio/tree/main/Simulating-Bank-Queues">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yinaS1234&repo=Simulating-Bank-Queues&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Simulating Bank Queues">
+      <br><strong>Simulation Modeling - Simulating Bank Queues to Improve Customer Wait</strong><br>
+      Simulated bank queues to optimize teller efficiency, directly enhancing customer experience and operational throughput, critical for fintech/e-commerce companies striving for superior service delivery.
+    </a>
+  </p>
 
-  ### Data Analysis - Stock Price Prediction using ARIMA
-  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Stock-Price-Prediction-ARIMA)  
-  Implemented ARIMA for accurate stock price forecasting, showcasing time series expertise, vital for financial forecasting, strategic planning, in operation environments.
-
-  ### Data Visualization - Hospital Operations Dashboard (Tableau)
-  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Hospital-Operations-Dashboard)  
-  Crafted an executive dashboard to optimize hospital operations, showcasing the ability to deliver actionable insights, crucial for decision-making in fintech and e-commerce leadership.
-
-  ### Machine Learning - Fraud Detection in Online Transactions
-  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Fraud-Detection-Online-Transactions)  
-  Utilized deep learning to detect first-time online transaction fraud, enhancing security and trust, essential for fintech platforms focused on minimizing fraud and safeguarding customer assets.
-
-  ### Deep Learning - Twitter Sentiment Analysis
-  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Twitter-Sentiment-Analysis)  
-  Leveraged NLP to analyze Twitter sentiment, providing insights into customer feedback. Understanding customer sentiment and behavior is key in both fintech and e-commerce. This project showcases the ability to apply NLP for customer insights, which can be used to drive product development and customer support improvement.
-
-  ### Simulation Modeling - Simulating Bank Queues to Improve Customer Wait
-  [Project Link](https://github.com/yinaS1234/top-project-portfolio/tree/main/Simulating-Bank-Queues)  
-  Simulated bank queues to optimize teller efficiency, directly enhancing customer experience and operational throughput, critical for fintech/e-commerce companies striving for superior service delivery.
-
+  <a href="https://github.com/yinaS1234?tab=repositories&sort=stargazers">
+    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
+  </a>
 </details>
+
 
 
 
