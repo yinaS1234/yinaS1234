@@ -158,6 +158,8 @@ In my work, I seamlessly blend the analytical precision of data science with the
 
 
 
+### Github Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{yinaS1234}/count.svg)
 
 
 
