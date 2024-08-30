@@ -58,7 +58,7 @@ In my work, I seamlessly blend the analytical precision of data science with the
   
   <!-- Images Section -->
   <p align="center">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/climates.png" alt="Climate Visual" width="400" height="250"/>
+    <img src="https://github.com/yinaS1234/Visual-Analytics/blob/main/climates.png" alt="Climate Visual" width="400" height="250"/>
     <img src="https://github.com/yinaS1234/Visual-Presentation/blob/main/s2/quardrant.png" alt="Quardrant Visual" width="400" height="250"/>
   </p>
   <p align="center">
