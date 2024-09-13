@@ -47,8 +47,6 @@ From a young age, I’ve been captivated by the world of art, finding beauty in 
 
 My journey didn’t stop at design. Seeking to expand my horizons, I embarked on the Google Data Science Certification, where I unexpectedly fell in love with coding. It was in the intricacies of data that I realized data science isn’t just a science—it’s an art form. The ability to blend data and creativity to tell compelling stories fascinated me.
 
-Now, as a curious and multilingual data science professional with a robust foundation in finance and operations, I bring a unique perspective to project. My expertise spans analyzing large datasets using SQL and Python, building efficient data pipelines, and conducting in-depth data analysis. But what truly sets me apart is my ability to transform data into visually compelling stories. I create executive-facing dashboards and presentations that not only inform but inspire, driving data-driven decision-making and optimizing business processes.
-
 In my work, I seamlessly blend the analytical precision of data science with the artistic flair that first sparked my interest, creating a powerful synergy that fuels innovation and impact.
 
 
