@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/yinaS1234">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Data%20Analyst;Data%20Visualization%20Enthusiast;Learner%20for%20a %20Lifetime&font=Fira%20Code&center=true&width=440&height=45&color=FFD700&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Quant%20Analyst;Data%20Visualization%20Enthusiast;Learner%20for%20a %20Lifetime&font=Fira%20Code&center=true&width=440&height=45&color=FFD700&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
