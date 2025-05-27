@@ -43,11 +43,13 @@
 ## Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> A little bit about me...
 
 
-From a young age, I’ve been captivated by the world of art, finding beauty in the details and stories behind every creation. This passion for creativity found a new dimension during the pandemic when I dove into the world of website design. It was there, amidst the lines of code and digital canvases, that I discovered my love for technology.
+🎨 Creative at heart, data-driven by choice.
 
-My journey didn’t stop at design. Seeking to expand my horizons, I embarked on the Google Data Science Certification, where I unexpectedly fell in love with coding. It was in the intricacies of data that I realized data science isn’t just a science—it’s an art form. The ability to blend data and creativity to tell compelling stories fascinated me.
+📊 I turn dashboards into stories—insightful, interactive, and beautifully designed.
 
-In my work, I seamlessly blend the analytical precision of data science with the artistic flair that first sparked my interest, creating a powerful synergy that fuels innovation and impact.
+🤖 Passionate about using GenAI to simplify complex ideas & accelerate creation.
+
+💡 From art to analytics, I bridge creativity and code to build products that teach, inspire, and deliver real impact.
 
 
 
