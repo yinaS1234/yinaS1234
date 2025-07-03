@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG -->
   <a href="https://github.com/yinaS1234">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Quant%20Analyst;AI%20Training%20Enthusiast;AI%20Content%20a%20Creator&font=Fira%20Code&center=true&width=440&height=45&color=FFD700&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Quant%20Analyst;AI%20Training%20Enthusiast;AI%20Content%20Creator&font=Fira%20Code&center=true&width=440&height=45&color=FFD700&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <!-- Social icons section -->
