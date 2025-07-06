@@ -46,11 +46,8 @@
 
 🎨 Creative at heart, data-driven by choice.
 
-📊 I turn dashboards into stories—insightful, interactive, and beautifully designed.
-
-🤖 Passionate about using GenAI to simplify complex ideas & accelerate creation.
-
-💡 From art to analytics, I bridge creativity and code to build products that teach, inspire, and deliver real impact.
+📊 I design prompt reasoning and complex logic across finance, UI, and generative workflows.  
+🤖  I create content that helps humans leverage AI powerfully.
 
 
 ## 📚 My Online Course: AI Dashboard with ChatGPT + Tableau🎓 [View Course on Udemy](https://www.udemy.com/course/ai-tableau-for-data-science-career-changers-with-chatgpt/?couponCode=B88BA35BA1567EA60067)
