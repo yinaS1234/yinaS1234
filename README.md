@@ -56,7 +56,7 @@
 
 [![Watch Promo](https://img.youtube.com/vi/O_jrKJpx0ks/0.jpg)](https://www.youtube.com/watch?v=O_jrKJpx0ks)
 
-🎓 [View Course on Udemy](https://www.udemy.com/your-course-link)
+🎓 [View Course on Udemy](https://www.udemy.com/course/ai-tableau-for-data-science-career-changers-with-chatgpt/?couponCode=LETSLEARNNOW)
 
 
 <details open> 
