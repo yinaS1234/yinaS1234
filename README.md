@@ -7,7 +7,7 @@
   <!-- Typing SVG -->
   <a href="https://github.com/yinaS1234">
     <!-- Typing SVG<img src="https://readme-typing-svg.demolab.com/?lines=Curious%20Quant%20Analyst;AI%20Training%20Enthusiast;AI%20Content%20Creator&font=Fira%20Code&center=true&width=440&height=45&color=FFD700&vCenter=true&pause=1000&size=22" /></a> -->
-    <img src="https://readme-typing-svg.demolab.com/?lines=%20Finance%20·%20Data%20·%20AI;🤖%20AI%20Trainer%20%26%20Prompt%20Designer;🔁%20Teaching%20Humans%20·%20Training%20Models&font=Fira%20Code&center=true&width=480&height=45&color=FFD700&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20Finance%20·%20Data%20·%20AI;%20AI%20Trainer%20%26%20Prompt%20Designer;%20Teaching%20Humans%20·%20Training%20Models&font=Fira%20Code&center=true&width=480&height=45&color=FFD700&vCenter=true&pause=1000&size=22" />
 
 </p>
 
