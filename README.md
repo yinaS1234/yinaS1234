@@ -93,12 +93,15 @@
   </p>
 
   <p>
+    <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
+    <a href="#"><img alt="Claude" src="https://img.shields.io/badge/Claude-101010.svg?logo=anthropic&logoColor=white"></a>
     <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white"></a>
     <a href="#"><img alt="Google Suite" src="https://img.shields.io/badge/Google%20Suite-4285F4.svg?logo=google&logoColor=white"></a>
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
 </details>
+
 
 
 
