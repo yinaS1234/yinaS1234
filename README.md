@@ -52,7 +52,7 @@
 💡 From art to analytics, I bridge creativity and code to build products that teach, inspire, and deliver real impact.
 
 
-## 📚 My Online Course: AI Dashboard with ChatGPT + Tableau🎓 [View Course on Udemy](https://www.udemy.com/course/ai-tableau-for-data-science-career-changers-with-chatgpt/?couponCode=LETSLEARNNOW)
+## 📚 My Online Course: AI Dashboard with ChatGPT + Tableau🎓 [View Course on Udemy](https://www.udemy.com/course/ai-tableau-for-data-science-career-changers-with-chatgpt/?couponCode=B88BA35BA1567EA60067)
 
 [![Watch Promo](https://img.youtube.com/vi/O_jrKJpx0ks/0.jpg)](https://www.youtube.com/watch?v=O_jrKJpx0ks)
 
