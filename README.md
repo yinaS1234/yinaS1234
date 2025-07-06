@@ -67,7 +67,7 @@
     <img src="https://github.com/yinaS1234/yinaS1234/blob/main/button-demo.gif" alt="Climate Visual" width="800" height="500"/>
   </p>
   <p align="center">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/climates.png" alt="Climate Visual" width="400" height="250"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/climates.png" alt="Climate Visual" width="400" height="350"/>
     <img src="https://github.com/yinaS1234/yinaS1234/blob/main/quardrant.png" alt="Quardrant Visual" width="400" height="250"/>
   </p>
   <p align="center">
