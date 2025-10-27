@@ -62,7 +62,7 @@
   
   <!-- Images Section -->
   <p align="center">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/aiadviso-ezgif.com-optimize.gif" alt="Climate Visual" width="800" height="500"/>
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/aiadviso-ezgif.com-optimize.gif" alt="Climate Visual" width="400" height="600"/>
   </p>
 
 </details>
