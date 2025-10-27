@@ -58,6 +58,17 @@
 
 
 <details open> 
+  <summary><h2> AI Projects</h2></summary>
+  
+  <!-- Images Section -->
+  <p align="center">
+    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/aiadviso-ezgif.com-optimize.gif" alt="Climate Visual" width="800" height="500"/>
+  </p>
+
+</details>
+
+
+<details open> 
   <summary><h2>Visuals</h2></summary>
   
   <!-- Images Section -->
@@ -126,8 +137,7 @@
 
 
 
-### Github Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{yinaS1234}/count.svg)
+
 
 
 
