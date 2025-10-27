@@ -56,16 +56,18 @@
 
 
 
-
 <details open> 
-  <summary><h2> AI Projects</h2></summary>
-  
-  <!-- Images Section -->
+  <summary><h2>AI Projects</h2></summary> 
+
   <p align="center">
-    <img src="https://github.com/yinaS1234/yinaS1234/blob/main/aiadviso-ezgif.com-optimize.gif" alt="Climate Visual" width="400" height="600"/>
+    <a href="https://github.com/yinaS1234/ai-advisor" target="_blank">
+      <img src="https://github.com/yinaS1234/yinaS1234/blob/main/aiadviso-ezgif.com-optimize.gif" 
+           alt="AI Advisor Demo" width="400" height="600"/>
+    </a>
   </p>
 
 </details>
+
 
 
 <details open> 
