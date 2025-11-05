@@ -66,6 +66,13 @@
     </a>
   </p>
 
+  <p align="center">
+    <a href="https://www.youtube.com/shorts/2Y9KaMQo-yo" target="_blank">
+      <img src="https://github.com/yinaS1234/yinaS1234/blob/main/finsightGPT-o.gif" 
+           alt="Financial Analyst AI Demo" width="400" height="600"/>
+    </a>
+  </p>
+
 </details>
 
 
